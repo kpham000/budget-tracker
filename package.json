@@ -1,5 +1,5 @@
 {
-  "name": "budget-tracker",
+  "name": "budget-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kpham000/budget-tracker.git"
+    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kpham000/budget-tracker/issues"
+    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
-  "homepage": "https://github.com/kpham000/budget-tracker#readme",
+  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^10.0.0",
@@ -25,8 +25,5 @@
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
-  },
-  "engines": {
-    "node": "14.18.0"
   }
 }
